@@ -1,0 +1,12 @@
+#stickytop
+{
+ opacity: 1 !important;
+}
+#stickytop.fixedm
+{
+ position: static;
+}
+#stickytop.fixedm #topbannercontainer
+{
+ display: block !important;
+}
